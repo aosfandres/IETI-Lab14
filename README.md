@@ -1,5 +1,5 @@
 
-# 3.4 Android Geolocation API and Google Maps
+# IETI LAB 14
 
 ### Part 1:  Create a basic Android Map Application ###
 
